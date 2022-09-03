@@ -1,0 +1,41 @@
+html {
+  background-color: black;
+  color: aqua;
+  margin: 5vw 25vw;
+}
+
+h1 {
+  font-size: 2.5vw;
+}
+
+p {
+  font-size: 1vw;
+}
+
+button {
+  padding: 1vw;
+  border: 0.25vw solid aqua;
+  background-color: black;
+  color: aqua;
+  font-weight: 900;
+  font-size: 1vw;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.main-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+#advice-section {
+    margin: 5vw;
+}
+
+pre {
+  text-align: right;
+  font-size: 0.25vw;
+  font-weight: 900;
+}
