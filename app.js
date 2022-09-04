@@ -51,6 +51,7 @@ const adviceFirstSection = [
 ];
 
 const adviceSecondSection = [
+  "watch 1998's Serial Experiments Lain with",
   "save",
   "have a milkshake with",
   "pass up",
@@ -129,10 +130,20 @@ const adviceSecondSection = [
   "read a book to",
   "throw a football around with",
   "drink soda with",
+  "eat a hamburger with",
   "work for",
+  "try to put together a puzzle with",
 ];
 
 const adviceThirdSection = [
+  "an earwig",
+  "a groundhog",
+  "a two-dollar bill",
+  "a dollar",
+  "a quarter",
+  "a nickel",
+  "a dime",
+  "a penny",
   "a bee",
   "a beelte",
   "a cow",
@@ -147,6 +158,7 @@ const adviceThirdSection = [
   "a dog",
   "a cat",
   "a frog",
+  "a toad",
   "your boss",
   "a UFO",
   "a duck",
@@ -183,9 +195,13 @@ const adviceThirdSection = [
   "middle management",
   "fast food",
   "home cooking",
+  "the mayor",
+  "with Bing Crosby",
 ];
 
 const adviceFourthSection = [
+  "in the wired",
+  "in the dark",
   "at a garage sale",
   "at a thrift store",
   "in a pawn shop",
@@ -246,15 +262,14 @@ const adviceFourthSection = [
   "at the gas station",
   "at the grocery store",
   "on a mountain",
-  "with the mayor",
   "in front of the townspeople",
   "at a bar",
   "at a concert",
   "in a bad dream",
   "in a dream",
-  "with Bing Crosby",
   "on Christmas",
   "on New Years",
+  "on a farm",
 ];
 
 // SWITCHING THE ASCII ARTS (CLOSING MOUTH)
