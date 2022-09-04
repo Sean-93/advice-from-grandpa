@@ -13,7 +13,6 @@ html {
   display: inline;
 }
 
-
 h1 {
   font-size: 2.5vw;
 }
@@ -39,13 +38,13 @@ button:hover {
 }
 
 .main-grid {
-    display: grid;
-    grid-template-columns: auto auto;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
 #advice-section {
-    margin-top: 10vw;
-    margin-right: 5vw;
+  margin-top: 10vw;
+  margin-right: 5vw;
 }
 
 pre {
@@ -100,7 +99,6 @@ a {
 }
 
 @media only screen and (max-width: 768px) {
-
   html {
     margin: 5vw;
     z-index: 0;
@@ -109,11 +107,11 @@ a {
   h1 {
     font-size: 7.5vw;
   }
-  
+
   p {
     font-size: 5vw;
   }
-  
+
   button {
     font-size: 5vw;
     padding: 5vw;
@@ -130,10 +128,10 @@ a {
   .main-grid {
     display: grid;
     grid-template-columns: none;
-}
+  }
 
-a {
-  position: absolute;
-  bottom: 1vw;
-}
+  a {
+    position: absolute;
+    bottom: 10vw;
+  }
 }
