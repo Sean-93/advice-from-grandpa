@@ -131,4 +131,9 @@ a {
     display: grid;
     grid-template-columns: none;
 }
+
+a {
+  position: absolute;
+  bottom: 1vw;
+}
 }
