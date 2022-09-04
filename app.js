@@ -29,18 +29,22 @@ const adviceFirstSection = [
   "Everyone wants you to",
   "Nobody wants you to",
   "Consider trying to",
-  "Never even think of",
-  "I wouldn't ever even consider",
-  "Dont let them make you",
+  "Never even think to",
+  "I wouldn't ever even consider to",
+  "Don't let them make you",
   "Never ever",
   "Why would anyone want to",
-  "why wouldn't anyone want to",
+  "Why wouldn't anyone want to",
   "Your great, great grandad used to",
   "Sometime in your life, I hope you get to",
   "I hope you never have to",
+  "Never take for granted the ability to"
 ];
 
 const adviceSecondSection = [
+  "pass up",
+  "jump on",
+  "throw",
   "eat",
   "use",
   "waste",
@@ -73,6 +77,7 @@ const adviceSecondSection = [
   "play the bass with",
   "play drums with",
   "bother",
+  "annoy",
   "forget about",
   "remember",
   "throw away",
@@ -88,6 +93,9 @@ const adviceSecondSection = [
 ];
 
 const adviceThirdSection = [
+  "a crow",
+  "a raccoon",
+  "a scammer",
   "a rat",
   "a bat",
   "a pig",
@@ -97,7 +105,6 @@ const adviceThirdSection = [
   "a football",
   "a frog",
   "your boss",
-  "a lawnmower",
   "a UFO",
   "a duck",
   "a goose",
@@ -146,9 +153,18 @@ const adviceThirdSection = [
   "dirt",
   "mud",
   "a pie",
+  "a spoon",
+  "maccaroni salad",
+  "a salad",
+  "a hoagie",
 ];
 
 const adviceFourthSection = [
+  "on The Internet",
+  "on The Web",
+  "in a spaceship",
+  "on a tractor",
+  "on a lawnmower",
   "in a car",
   "on Sundays",
   "on Mondays",

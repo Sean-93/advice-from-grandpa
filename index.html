@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Grandpa doesn't always give the best advice, but you can still stop by and hear what he has to say.">
+    <meta name="keywords" content="random advice, madlibs, mad libs, joke website, joke site, funny site, humor, coding">
+    <meta name="developer" content="Sean Rooney">
     <!-- CUSTOM JS -->
     <script src="is-meta-browser.js" defer></script>
     <script src="app.js" defer></script>
@@ -15,10 +18,12 @@
     <h1>Advice from Grandpa</h1>
     <p>Grandpa doesn't always give the best advice.</p>
     <br/>
-    <button onclick="getRandomAdvice()">Ask for Advice</button>
     <div class="main-grid">
         <!-- COLUMN 1 -->
-        <p id="advice-section"></p>
+        <div>
+            <button onclick="getRandomAdvice()">Ask for Advice</button>
+            <p id="advice-section"></p>
+        </div>
              <!-- COLUMN 2 -->
         <div>
 
@@ -182,5 +187,8 @@
             </pre>
         </div>
     </div>
+    <p>
+        <a href="about.html">About >></a>
+    </p>
 </body>
 </html>

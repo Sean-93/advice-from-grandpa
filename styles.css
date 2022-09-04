@@ -1,7 +1,7 @@
 html {
   background-color: black;
   color: aqua;
-  margin: 5vw 25vw;
+  margin: 5vw 25vw 0vw 25vw;
   overflow-x: hidden;
 }
 
@@ -56,6 +56,11 @@ pre {
 
 .random-advice {
   animation: transparent_loadin 1.5s ease-in;
+}
+
+a {
+  text-align: center;
+  color: aqua;
 }
 
 @keyframes transparent_loadin {
