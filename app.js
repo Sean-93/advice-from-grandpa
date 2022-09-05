@@ -137,6 +137,12 @@ const adviceSecondSection = [
   "eat a hamburger with",
   "work for",
   "try to put together a puzzle with",
+  "watch television with",
+  "eat fast food with",
+  "eat home cooking with",
+  "cook a nice meal for",
+  "cook a meal for",
+  "cook a subpar meal for",
 ];
 
 const adviceThirdSection = [
@@ -184,7 +190,6 @@ const adviceThirdSection = [
   "a bobcat",
   "a wolf",
   "a cactus",
-  "a television",
   "a shoe",
   "a boot",
   "a spoon",
@@ -195,8 +200,6 @@ const adviceThirdSection = [
   "royalty",
   "your landlord",
   "middle management",
-  "fast food",
-  "home cooking",
   "the mayor",
   "with Bing Crosby",
 ];
@@ -272,6 +275,7 @@ const adviceFourthSection = [
   "on Christmas",
   "on New Years",
   "on a farm",
+  "on television",
 ];
 
 // SWITCHING THE ASCII ARTS (CLOSING MOUTH)
