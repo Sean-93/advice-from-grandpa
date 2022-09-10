@@ -143,19 +143,19 @@ const adviceSecondSection = [
   "cook a nice meal for",
   "cook a meal for",
   "cook a subpar meal for",
+  "give a two-dollar bill to",
+  "give a dollar to",
+  "give a quarter to",
+  "give a nickel to",
+  "give a dime to",
+  "give a penny to",
 ];
 
 const adviceThirdSection = [
   "an earwig",
   "a groundhog",
-  "a two-dollar bill",
-  "a dollar",
-  "a quarter",
-  "a nickel",
-  "a dime",
-  "a penny",
   "a bee",
-  "a beelte",
+  "a beetle",
   "a cow",
   "a goat",
   "a bottle",
@@ -275,7 +275,7 @@ const adviceFourthSection = [
   "on Christmas",
   "on New Years",
   "on a farm",
-  "on television",
+  "while on television",
 ];
 
 // SWITCHING THE ASCII ARTS (CLOSING MOUTH)
